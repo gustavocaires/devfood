@@ -1,5 +1,5 @@
 #DevFood
-[[https://imgur.com/a/UHMWJdF](https://imgur.com/gallery/devfood-UHMWJdF)](https://imgur.com/fdBnNXF)
+![Logo](https://imgur.com/fdBnNXF)
 
 
 # Welcome to your Expo app 👋
